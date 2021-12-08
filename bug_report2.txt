@@ -1,1 +1,11 @@
-
+Title: "not possible to choose a delivery method",
+ID: 01
+Author: Kusmartsev
+Steps to reproduce: 
+  step 01: "Select an item in the catalog",
+  step 02: "Add the item to the cart",
+  step 03: "Pay for the item by the 'Chekout' button"
+  step 04: "Click on the 'Delivery method' button".
+Actual result: "Nothing happens on the page"
+Expected result: "The user chooses the delivery method"
+Severity: "Blocker"
